@@ -1,3 +1,4 @@
+< HEAD
 # AI Marketing Campaign Builder & QA System
 
 A portfolio project demonstrating Marketing Operations expertise and AI integration for the **Sky Society Marketing Operations & AI Specialist** role.
@@ -451,3 +452,7 @@ Date: October 2024
 ## 📞 Contact
 
 For questions about this project or interview discussion, please contact via Sky Society interview coordinators.
+
+# ai-marketing-campaign-builder
+AI-powered marketing campaign generation and QA using Claude, Python, and Streamlit
+ 5b413ccebe0ac33e7058202baf7c82dd027c856e
