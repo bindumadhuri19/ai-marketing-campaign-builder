@@ -435,7 +435,6 @@ This is a portfolio project created for the Sky Society interview process.
 
 **Bindu**
 
-For: Sky Society - Marketing Operations & AI Specialist Role
 
 Date: October 2024
 
@@ -451,7 +450,6 @@ Date: October 2024
 
 ## 📞 Contact
 
-For questions about this project or interview discussion, please contact via Sky Society interview coordinators.
 
 # ai-marketing-campaign-builder
 AI-powered marketing campaign generation and QA using Claude, Python, and Streamlit
